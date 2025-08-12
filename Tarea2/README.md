@@ -19,7 +19,7 @@ Ejemplo del contenido del archivo:
 Manzanas 100 2.50 BodegaA
 Peras 50 3.00 BodegaB
 Platanos 75 1.75 BodegaC
-Uvas 200 4.00 Bodega
+Uvas 200 4.00 BodegaA
 ```
 
 ## Especificaciones
