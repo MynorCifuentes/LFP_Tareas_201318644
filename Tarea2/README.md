@@ -32,3 +32,5 @@ Uvas 200 4.00 BodegaA
 * Cuando no encuentra el archivo se muestra el mensaje de error __No se encuentra el archivo__ el programa no se detiene
 
 * El programa se ejecuta hasta que el usuario selecciona la opción de salir
+
+![Animación de ejemplo](/Tarea2/gif.gif)
